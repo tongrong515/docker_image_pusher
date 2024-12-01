@@ -2,3 +2,4 @@ nginx
 redis
 mongo
 rabbitmq
+mysql
