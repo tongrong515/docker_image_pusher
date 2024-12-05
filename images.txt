@@ -1,6 +1,7 @@
 nginx
 redis
 mongo
+mongo:4.4
 rabbitmq
 mysql
 mysql:8.1
