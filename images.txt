@@ -4,4 +4,5 @@ mongo
 rabbitmq
 mysql
 mysql:8.1
+mysql:8.0.39
 mysql:5.7.44
