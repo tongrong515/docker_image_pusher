@@ -3,6 +3,7 @@ redis
 mongo
 mongo:4.4
 rabbitmq
+portainer/portainer
 mysql
 mysql:8.1
 mysql:8.0.11
