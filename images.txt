@@ -8,4 +8,6 @@ mysql
 mysql:8.1
 mysql:8.0.19
 mysql:5.7.44
-aarch64/redis
+arm64v8/redis:4.4
+arm64v8/mysql:8.0.40
+arm64v8/mongo:4.4
