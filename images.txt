@@ -8,4 +8,3 @@ mysql
 mysql:8.1
 mysql:8.0.19
 mysql:5.7.44
-aarch64/redis
