@@ -1,7 +1,7 @@
-mysql:8.0.40
+mysql
 mysql:5.7.44
-mysql:8.4.3
 confluentinc/cp-zookeeper
 confluentinc/cp-kafka
 grafana/grafana
 prom/prometheus
+postgres
