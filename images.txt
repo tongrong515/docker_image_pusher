@@ -1,7 +1,7 @@
 mysql
 mysql:5.7.44
 mysql:8.4.5
-redids
+redis
 mongo
 confluentinc/cp-zookeeper
 confluentinc/cp-kafka
